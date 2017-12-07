@@ -3,6 +3,10 @@ h1{
 	text-align: center;
 }
 
+#summary {
+	text-align: center;
+}
+
 .row {
 	display: flex;
 	flex-wrap: wrap;
