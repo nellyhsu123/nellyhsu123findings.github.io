@@ -8,15 +8,6 @@ h1{
 	text-align: center;
 }
 
-#summary {
-	text-align: center;
-}
-
-.pill{
-	background-color:#DDDDDD;
- 	border-radius: 80px;
-}
-
 .row {
 	display: flex;
 	flex-wrap: wrap;
